@@ -1,0 +1,1 @@
+let simpleObj = {key: "value"};
